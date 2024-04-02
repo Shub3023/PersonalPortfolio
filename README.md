@@ -4,17 +4,13 @@ Welcome to my Full Stack Java Development portfolio! This repository showcases m
 
 ## Projects
 
-### Project 1: [Project Name]
-- Description: Brief description of the project, including its purpose and key features.
-- Technologies Used: List of technologies used in the project (e.g., Spring Boot, Hibernate, MySQL, React.js).
-- Link: Link to the project repository or deployed application.
-
-### Project 2: [Project Name]
-- Description: Brief description of the project, including its purpose and key features.
-- Technologies Used: List of technologies used in the project (e.g., Spring MVC, MongoDB, Angular).
-- Link: Link to the project repository or deployed application.
-
-[Add more projects as necessary]
+### Project 1: Student Database Mangagement System
+- Description:: It is a Spring Based software application that is 
+capable of storing and managing student data 
+along with application page where users can log 
+in, add, update, and delete the record
+- Technologies Used: List of technologies used in the project (e.g. Spring Boot, Hibernate, MySQL).
+- Link: [Link to the project repository or deployed application](https://github.com/Shub3023/smswithspringboot).
 
 ## Skills
 
@@ -31,8 +27,8 @@ Welcome to my Full Stack Java Development portfolio! This repository showcases m
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com].
+Feel free to reach out to me via email at [shubhamkale50752@gmail.com].
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Shubham Kale License](LICENSE).
